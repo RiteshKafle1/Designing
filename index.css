@@ -285,7 +285,7 @@ body {
 
 .footer-container {
   margin: 0 auto;
-  padding: 3rem 1 rem 0;
+  padding: 3rem;
 
   background-color: black;
   border-top-left-radius: 0.8rem;
@@ -401,7 +401,7 @@ body {
   }
 
   .footer-grid {
-    flex: 0 0 60%;
+
     grid-template-columns: repeat(4, 1fr);
     padding-top: 0;
   }
